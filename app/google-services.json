@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656286158838",
+    "firebase_url": "https://smart-pull-up.firebaseio.com",
+    "project_id": "smart-pull-up",
+    "storage_bucket": "smart-pull-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656286158838:android:088233d5138bc2ad",
+        "android_client_info": {
+          "package_name": "com.smartpullup.smartpullup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656286158838-ijm6adaitikbp1sonijrijv7f654kko8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartpullup.smartpullup",
+            "certificate_hash": "c7965543a24b131f622d8bd0ba3a3e93a414e8c3"
+          }
+        },
+        {
+          "client_id": "656286158838-59q32l03ieqjgrgfbp99hjb9atmqqmd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBgHE8PBY0b3fClNrcM76ryUJMRcwJHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656286158838-59q32l03ieqjgrgfbp99hjb9atmqqmd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

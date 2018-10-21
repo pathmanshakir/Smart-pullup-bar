@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fitsSystemWindows="true"
+    android:id="@+id/welcome_layout"
+    tools:context="com.smartpullup.smartpullup.WelcomeActivity"
+    android:background="@drawable/background_gradient_list">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="15dp"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="20dp"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp">
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/Black"
+                android:text="@string/login"
+                android:onClick="GoToLogin"
+                android:textColor="#fff"
+                android:layout_gravity="end"
+                android:background="@drawable/round_button"/>
+
+            <ImageView
+                android:layout_width="276dp"
+                android:layout_height="206dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="0dp"
+                android:src="@drawable/pull_up" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/welcome"
+                android:textColor="@color/Black"
+                android:textSize="25sp"
+                android:gravity="center"/>
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_create_account"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="15dp"
+                android:onClick="GoToCrateAccount"
+                android:textColor="#fff"
+                android:padding="12dp"
+                android:text="@string/create_account"
+                android:backgroundTint="@color/Black"
+                android:background="@drawable/round_button"/>
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_fb_button"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginRight="3dp"
+                android:layout_marginLeft="3dp"
+                android:elevation="0.5dp"
+                android:background="@drawable/round_button"/>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

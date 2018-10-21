@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBottomNav">#3F51B5</color>
+    <color name="LightGrey">#c6c6c6</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="tab_background_selected">#303F9F</color>
+    <color name="tab_background_unselected">#FFFFFF</color>
+    <color name="ColorTheme">#4682B4</color>
+    <color name="ColorThemeSelector">#91b6d4</color>
+    <color name="GreenStartProgressBar">#33cc33</color>
+    <color name="RedStopProgressBar">#ff0000</color>
+    <color name="Red">#ff0000</color>
+
+</resources>

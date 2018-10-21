@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Smart Pull Up</string>
+    <string name="welcome">Welcome to Smart Pullup Bar</string>
+
+    <string name="item_1">Exercise</string>
+    <string name="item_2">Pofile</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Log in</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">E-mail</string>
+    <string name="height_help">Height (cm)</string>
+    <string name="weight_help">Weight (kg)</string>
+    <string name="birthday_help">Date of Birth dd/MM/YYYY</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-enter Password</string>
+
+    <string name="facebook_app_id">196148254305512</string>
+    <string name="fb_login_protocol_scheme">fb196148254305512</string>
+
+    <string name="goal">How much do you want to do?</string>
+    <string name="cancel">CANCEL</string>
+    <string name="go">GO!</string>
+    <string name="save">SAVE</string>
+
+    <string name="connect">Connect</string>
+    <string name="workout">Main workout</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="type">Type</string>
+    <string name="pull_ups">0</string>
+    <string name="speed">speed</string>
+    <string name="avg_speed">avg speed</string>
+    <string name="duration">duration</string>
+
+    <string name="graph_progress">Graphical Progress</string>
+    <string name="tot_pullups">Total Pullups</string>
+    <string name="fast_pullups">Fastest Pullups</string>
+    <string name="aver_speed">Average speed</string>
+    <string name="tot_length_ex">Total Length Exercise</string>
+
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="birthday">Date of Birth</string>
+    <string name="logout">Logout</string>
+
+    <string name="connect_device">Connect device</string>
+    <string name="select_device">Select your Smart Pull Up Bar from paired devices</string>
+
+    <string name="exercices">Pull up exercises</string>
+
+    <string name="card_title_workout_1">Standard chin-up</string>
+    <string name="card_title_workout_2">The climber pull-up</string>
+    <string name="card_title_workout_3">Behind neck pull-up</string>
+    <string name="card_title_workout_4">Gironda sternum chin-up</string>
+    <string name="card_title_workout_5">Negative pull-ups</string>
+    <string name="card_title_workout_6">Band assisted chin-up</string>
+    <string name="card_title_workout_7">Windscreen wipers</string>
+    <string name="card_title_workout_8">Bat wing chin-up</string>
+    <string name="card_title_workout_9">Hanging leg raises</string>
+    <string name="card_title_workout_10">Hanging Reverse Shoulder Shrugs</string>
+
+    <string name="card_content_workout_1">Grab the bar with a shoulder-width grip, palms facing you. Pull yourself up until your chin is level with the bar, then slowly lower until your arms are fully extended. If you can not initially do full chin-ups and pull-ups, work up to them using moves 5 and 6. This classic grip hits both your biceps and forearms, as well as your back.</string>
+    <string name="card_content_workout_2">Hang with a shoulder-width grip, palms facing forwards, and pull your weight straight up. Through the top half of the move, shift your weight to the right and aim your chin towards your right hand. Lower, and repeat to the left side. This balances your bicep strength, so you avoid the Rafa Nadal effect.</string>
+    <string name="card_content_workout_3">Grab the bar with a wide grip, your palms facing away from you. Lean your torso forwards slightly and pull your shoulders up towards the bar until it grazes the back of your neck. Slowly return to the start. Using this angle of attack increases the workload on your lats.</string>
+    <string name="card_content_workout_4">Hold the bar with your palms facing you and arch your back as you pull yourself upwards. Lean your head back and continue lifting until the bar touches your chest. Slowly reverse the movement. By leaning back, you demand more power from your lats and less from your arms.</string>
+    <string name="card_content_workout_5">Stand on a chair and hold the bar with a shoulder-width grip, palms facing you. With control, step off the chair and slowly lower yourself until your arms are fully extended. Release, and repeat. This move allows you to build the strength in preparation for a full pull-up, and works your forearms.</string>
+    <string name="card_content_workout_6">Secure a resistance band around the bar and place the other end around a foot or knee for extra assistance. Pull yourself up until your chin is level with the bar, then slowly lower until your arms are extended and the resistance band is pulled tight. This move can be used as the next step between negative pull-ups and full pull-ups.</string>
+    <string name="card_content_workout_7">Grip the bar with your palms facing you. Use your arms to gently pull yourself up as you swing your legs towards the bar. Now hold your arms and torso steady as you swing your legs as far as you can to the right, then as far as you can to the left. The combination of control and agility brings every abdominal muscle into action.</string>
+    <string name="card_content_workout_8">Hold the bar with your palms close together and facing you. Flex your biceps and lats to pull yourself up until your chin is level with the bar. Keep your elbows close to your body and hold at the top for 5-10sec. As well as your biceps and lats, this move calls on your triceps, for a full arm workout.</string>
+    <string name="card_content_workout_9">Hold the bar with your palms facing you. Lift yourself off the floor but keep your arms extended and your torso stable, then slowly bend at the hips and lift your legs until they are parallel with the floor. This emphasises the front of your abs. Bend your knees if you need to make it easier.</string>
+    <string name="card_content_workout_10">Hold the bar with your palms facing you. Keeping your arms straight, lift up slightly by shrugging your shoulders down and away from your ears. Perform the repetitions quickly in order to isolate your traps. This stresses your trapezius muscles to build solid, rounded shoulders.</string>
+
+</resources>
